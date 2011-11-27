@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\tundrahost.o
+./release\serialdeviceenumerator.o
+./release\serialdeviceenumerator_p_win.o
+./release\abstractserial.o
+./release\abstractserialengine.o
+./release\nativeserialengine.o
+./release\abstractserialnotifier.o
+./release\nativeserialengine_win.o
+./release\nativeserialnotifier_win.o
+./release\moc_tundrahost.o
+./release\qrc_gfx.o
+);

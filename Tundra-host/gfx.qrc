@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gfx/host.ico</file>
+        <file>gfx/host.png</file>
+    </qresource>
+</RCC>
